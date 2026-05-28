@@ -198,5 +198,5 @@
 ## 8. 作者
 
 - **姓名:**【杨鑫宇】
-- **邮箱:**【xinyuyang1231@163.com】
-- **GitHub:**
+- **邮箱:**【xxinyu173@gmail.com】
+- **GitHub:**【https://github.com/Xinxin-1231】
